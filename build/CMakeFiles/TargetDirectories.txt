@@ -1,4 +1,5 @@
-Z:/GUC/blink/build/CMakeFiles/blink.dir
+Z:/GUC/blink/build/CMakeFiles/WiFiNINA.dir
+Z:/GUC/blink/build/CMakeFiles/doorbell.dir
 Z:/GUC/blink/build/CMakeFiles/edit_cache.dir
 Z:/GUC/blink/build/CMakeFiles/rebuild_cache.dir
 Z:/GUC/blink/build/pico-sdk/CMakeFiles/edit_cache.dir

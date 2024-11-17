@@ -168,7 +168,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=blink
+CMAKE_PROJECT_NAME:STATIC=doorbell
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/bin/arm-none-eabi-ranlib.exe
@@ -325,6 +325,12 @@ blink_BINARY_DIR:STATIC=Z:/GUC/blink/build
 
 //Value Computed by CMake
 blink_SOURCE_DIR:STATIC=Z:/GUC/blink
+
+//Value Computed by CMake
+doorbell_BINARY_DIR:STATIC=Z:/GUC/blink/build
+
+//Value Computed by CMake
+doorbell_SOURCE_DIR:STATIC=Z:/GUC/blink
 
 //Value Computed by CMake
 pico_sdk_BINARY_DIR:STATIC=Z:/GUC/blink/build/pico-sdk
